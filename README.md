@@ -4,9 +4,13 @@ Start with SQL_Mystery_Solution.pdf for a walkthrough solution to the challenge
 
 ```
 SQL_Mystery_Solution.pdf: A walkthrough solution to the challenge with SQL commands and descritptions
+
 Solution.ipynb: A jupyter notebook that loads the corresponding database from the challenge, and executes the solution via Python with the sqlite3 library
+
 sql_exec.py: A python module used in Solution.ipynb to format SQL responses and execute commands
+
 schema.png: An ERD of the database from the challenge
+
 requirements.txt: The dependencies for Solution.ipynb (pandas, sqlite3)
 ```
 
